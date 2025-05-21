@@ -68,7 +68,8 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 
 </ol>
 # CODE
-```from collections import deque
+```
+from collections import deque
 from collections import defaultdict
 
 
