@@ -67,8 +67,7 @@ Now, Queue becomes empty, So, terminate these process of iteration.
 <li>Iterate steps 4 and 5 until all nodes get visited, and there are no more unvisited nodes.</li>
 
 </ol>
-CODE
-
+<h3>CODE</h3>
 ```
 from collections import deque
 from collections import defaultdict
